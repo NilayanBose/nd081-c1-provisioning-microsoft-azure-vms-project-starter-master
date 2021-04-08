@@ -13,6 +13,10 @@
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
   - I would choose an App service for a small application like this one.
 - *Justify your choice*
+  - As the application isn't that complex and is written in Python which is a supported language for App Service Plans, I would like to use it for fast development.
+  - The App service plans are cheaper with F1 being almost free.
+  - We don't have to care about the underlying OS and its settings/configurations.
+  - Allows Continous Deployment using Github Actions Workflow.
 
 ### Assess app changes that would change your decision.
 
