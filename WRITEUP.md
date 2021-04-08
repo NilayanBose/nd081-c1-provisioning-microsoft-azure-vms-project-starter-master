@@ -25,4 +25,4 @@
 ### Assess app changes that would change your decision.
 
  - If the Application was any heavier which required high availability and scalability beyond the scopes of the largest App service, Maybe i would have opted for the Vitual Machine.
- - I would have been forced to choose virtual machines if the application was written in a language not supported by the App Service Plans or that language is not available or even for lagecy application from on premise.
+ - I would have been forced to choose virtual machines if the application was written in a language not supported by the App Service Plans or that language is not available or even for legacy application from on premise.
