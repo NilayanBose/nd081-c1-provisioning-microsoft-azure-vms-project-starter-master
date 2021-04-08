@@ -11,6 +11,7 @@
     
     Note: Multiple VMs can be grouped together to provide better scalability and availability but that again, has an impact on economics of the app (costs).
 - *Choose the appropriate solution (VM or App Service) for deploying the app*
+  - I would choose an App service for a small application like this one.
 - *Justify your choice*
 
 ### Assess app changes that would change your decision.
