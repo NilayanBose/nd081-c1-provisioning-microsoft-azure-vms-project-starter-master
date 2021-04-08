@@ -4,7 +4,7 @@
 
 *For **both** a VM or App Service solution for the CMS app:*
 - *Analyze costs, scalability, availability, and workflow*
-- Costs: App Service Plans are cheaper as compared to Virtual Machines.
+Costs: App Service Plans are cheaper as compared to Virtual Machines.
 Scalabilty: App Services are auto-scalable.
 Availablity: App Services provide high availablity.
 Workflow: Much easier to setup an app service (with github actions workflow) than a virtual machine.
